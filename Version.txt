@@ -1,5 +1,7 @@
-1.1.5.1 - September 15, 2016;-Releasing "G E N E T I X"
+1.1.5.1;-Releasing "G E N E T I X"
 -Updated literally everything
 -Added Autpupdater
 -Stronger Protection
 -Stronger Hash
+
+ - September 15, 2016 -
