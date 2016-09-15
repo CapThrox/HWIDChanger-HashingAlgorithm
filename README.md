@@ -9,13 +9,10 @@ As I already said, Genetix is an updated Version of the old HWID-Changer.
 It has different Hashing Methodes, a secure Code Protection and some other usefull Stuff which is listed below. 
  
 ##What is a HWID?
-I'm just gonna C&P that from my old Thread ^^. 
-
 So to easily explain this to you I'm gonna start by explaining what a HWID is. 
 
 Basically there is no such thing as a HWID. Every hardware and also other things have their specific IDs which are NOT always unique. 
 
-Take the PA-Loader as an example.. When you first login the loader grabs some IDs from specific hardware, combines them and probably hashes them. 
 Hashing is a pretty strong encryption if you do it the right way. So if you get a new CPU you can't login anymore because the Loader
 detects a new ID which does not fit with your first HWID.  So a HWID Changer grabs specific IDs from your Hardware and changes them. 
  
