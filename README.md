@@ -17,7 +17,6 @@ Basically there is no such thing as a HWID. Every hardware and also other things
 
 Take the PA-Loader as an example.. When you first login the loader grabs some IDs from specific hardware, combines them and probably hashes them. 
 Hashing is a pretty strong encryption if you do it the right way. So if you get a new CPU you can't login anymore because the Loader
-
 detects a new ID which does not fit with your first HWID.  So a HWID Changer grabs specific IDs from your Hardware and changes them. 
  
  
