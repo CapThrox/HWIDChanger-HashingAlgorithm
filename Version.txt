@@ -1,1 +1,5 @@
-1.1.5.0;-Releasing Recoded HWID Changer
+1.1.5.1;-Releasing "GENETIX"
+-Updated literally everything
+-Added Autpupdater
+-Stronger Protection
+-Stronger Hash
