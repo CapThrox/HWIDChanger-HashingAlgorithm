@@ -1,4 +1,5 @@
-1.1.5.1;-Releasing GENETIX
+1.1.5.1;-September 15 2016 -
+-Releasing GENETIX
 -Updated literally everything
 -Added Autpupdater
 -Stronger Protection
