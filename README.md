@@ -42,4 +42,6 @@ If you got a HWID you might bypass this ban without resetting your PC.
 - Save Hash to Text File
 - GUI Tweeks
 
-Created by @CapThrox & @Patrick-DE
+[Virustotal](https://www.virustotal.com/de/file/4c66eb6f78ce0abf476f3f633aa5c1fb5a1ba7b0f6224b32334a5b4e65dec11a/analysis/1473973336/)
+
+Created by [@CapThrox](https://github.com/CapThrox) & [@Sh4d0w](https://github.com/Patrick-DE)
