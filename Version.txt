@@ -1,7 +1,6 @@
-1.1.6.1;- September 18 2016: -
+1.1.7.1;- September 18 2016: -
 
--Added even stronger Code Protection.
--Removed a compressing function, which caused some AV detections. 
+-Bug fixes 
 
 
 Throx
