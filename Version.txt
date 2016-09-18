@@ -1,9 +1,10 @@
-2.1.2.1;- September 18 2016: -
+2.1.2.2;- September 18 2016: -
 
 -MAC Changer released (Can be buggy)
 -Updated code structure
 -Added UAC and Defender Status
 -Some major changes to the protection again (Final for now)
+-Bug Fixes
 
 
 Throx
