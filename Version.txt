@@ -1,10 +1,9 @@
-2.1.2.2;- September 18 2016: -
+2.2.2.2;- September 20 2016: -
 
--MAC Changer released (Can be buggy)
--Updated code structure
--Added UAC and Defender Status
--Some major changes to the protection again (Final for now)
--Bug Fixes
+-MAC Changer is now fully functionall
+-Added Original MAC Adress Changer [More secure]
+-Added IDE HWID
+-Fixed bugs regarding the MAC Changer, Generator and HWID Changer
 
 
 Throx
