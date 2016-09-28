@@ -1,1 +1,22 @@
-Insert here
+GENETIX Terms of Service
+September 28,2016
+
+1.	Getting started with GENETIX
+
+•	GENETIX is a (currently) free tool, which is used to change your HWID.
+•	It includes several usefull options for hashing/crypting but also changing information within windows.
+•	GENETIX is a "work in progress"-programm so it will be continuously updated.
+•	The owner of the programm reserves the right to change any of the agreements in ToS anytime and stoping the developement if they feel it's not worth it anymore.
+
+
+2. Your and our security
+
+By agreeing the ToS you agree that we are allowed to save and use...
+
+•	Your HWID
+•	Your IP
+•	Personal data provided by you
+
+The collected information WILL NOT be selled, abused or handed to any other company, developer or advertising companies!
+
+We collect this information for your personal security, statistics and overall safety of GENETIX.
