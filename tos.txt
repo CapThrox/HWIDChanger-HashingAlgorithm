@@ -1,7 +1,7 @@
 GENETIX Terms of Service
 September 28,2016
 
-1.	Getting started with GENETIX
+1. Getting started with GENETIX
 
 •	GENETIX is a (currently) free tool, which is used to change your HWID.
 •	It includes several usefull options for hashing/crypting but also changing information within windows.
