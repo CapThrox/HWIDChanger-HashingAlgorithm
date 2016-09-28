@@ -8,8 +8,12 @@ September 28,2016
 •	GENETIX is a "work in progress"-programm so it will be continuously updated.
 •	The owner of the programm reserves the right to change any of the agreements in ToS anytime and stoping the developement if they feel it's not worth it anymore.
 
+2. License
+•	In case of sold licenses they will remain as long as it was stated but maximum as long as the support is provided.
+•	The owner reserves the right to terminate any of the sold or given out licenses at any time and without notice.
+•	In case you used any reverse engineering or monitoring tools to gather information on e.g. how the programm works you license will be terminated instantly and without further information.
 
-2. Your and our security
+3. Your and our security
 
 By agreeing the ToS you agree that we are allowed to save and use...
 
