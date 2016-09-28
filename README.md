@@ -1,6 +1,3 @@
-#YOU HAVE TO PUT THE .DLLS AND THE EXE IN THE SAME FOLDER!!!!
-
-
 #GENETIX
 We want to combine a HWID-Changer with specific usefull Tools you might need. 
 
